@@ -10,7 +10,7 @@ pub mod image;
 pub mod mesh3d;
 mod ohlc;
 pub mod sankey;
-mod scatter;
+pub mod scatter;
 mod scatter3d;
 pub mod scatter_mapbox;
 mod scatter_polar;
